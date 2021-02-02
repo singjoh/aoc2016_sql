@@ -42,3 +42,6 @@ from (
 	where x = 4 and y = 4
 	order by pathlen
 	option (maxrecursion 0)
+
+	-- row 1 path = part 1
+	-- last row pathlen = part 2
